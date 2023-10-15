@@ -1,0 +1,16 @@
+{
+    "name": "orchard/product-of-the-day",
+    "description": "Plugin for managing product and featuring on a daily basis.",
+    "autoload": {
+        "psr-4": {
+            "Orchard\\ProductOfTheDay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kim",
+            "email": "kimluari@gmail.com"
+        }
+    ],
+    "require": {}
+}
